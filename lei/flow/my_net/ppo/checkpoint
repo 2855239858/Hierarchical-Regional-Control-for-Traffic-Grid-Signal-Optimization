@@ -1,0 +1,4 @@
+model_checkpoint_path: "master_ep20.ckpt"
+all_model_checkpoint_paths: "master_ep0.ckpt"
+all_model_checkpoint_paths: "master_ep10.ckpt"
+all_model_checkpoint_paths: "master_ep20.ckpt"

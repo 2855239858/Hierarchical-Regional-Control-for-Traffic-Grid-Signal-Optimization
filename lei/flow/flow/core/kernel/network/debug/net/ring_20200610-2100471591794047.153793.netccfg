@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+  <input>
+    <node-files value="ring_20200610-2100471591794047.153793.nod.xml"/>
+    <edge-files value="ring_20200610-2100471591794047.153793.edg.xml"/>
+    <type-files value="ring_20200610-2100471591794047.153793.typ.xml"/>
+  </input>
+  <output>
+    <output-file value="ring_20200610-2100471591794047.153793.net.xml"/>
+  </output>
+  <processing>
+    <no-internal-links value="false"/>
+    <no-turnarounds value="true"/>
+  </processing>
+</configuration>
